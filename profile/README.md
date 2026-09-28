@@ -1,7 +1,7 @@
 <div align="center">
- <img width="120" alt="AzuOS: If it runs on the Web, it runs on AzuOS" src="https://raw.githubusercontent.com/AzuSystem/azuos-legacy/refs/heads/main/assets/logo.svg">
+ <img width="120" alt="AzuOS Logo" src="https://raw.githubusercontent.com/AzuSystem/azuos-legacy/refs/heads/main/assets/logo.svg">
 	<h1>AzuOS</h1>
-	<p>AzuOS is an Debian-based Linux Distro focused on its unreal design</p>
+	<p>AzuOS is a Debian-based Linux Distro focused on its unreal design</p>
 	<a href='https://azusystem.github.io/azuos'>Visit our Website ↗</a>
 </div>
 
